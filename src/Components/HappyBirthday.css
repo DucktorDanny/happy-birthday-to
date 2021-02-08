@@ -1,0 +1,17 @@
+.HappyBirthday {
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.HappyBirthday h1 {
+   font-size: 72px;
+   color: white;
+}
+
+@media only screen and (max-width: 550px) {
+   .HappyBirthday h1 {
+      font-size: 36px;
+   }
+}
