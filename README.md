@@ -10,7 +10,7 @@
 * If you want to say it to a spesific person then add his/her nickname to the link. For example: https://happy-birthday-to.vercel.app/Peter
 ![Spesific way example photo](./example_photo/spesific.png)
 
-## Links
+## Used Additional Library
 
 * Falling Emojis:
    * https://www.npmjs.com/package/falling-emojis
